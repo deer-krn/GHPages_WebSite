@@ -43,5 +43,5 @@ ya-
 | HoYowiki | HoYowiki  |
 | [リンク](https://wiki.hoyolab.com/pc/genshin/home) | [リンク](https://wiki.hoyolab.com/pc/zzz/home) |
 
-![image](/GHPages_WebSite/assets/images/logo-150.png)　#GHPages_WebSite　はリポジトリ名
+![image](/GHPages_WebSite/assets/images/キャストリス.jpg)　#GHPages_WebSite　はリポジトリ名
 # assetsファイルのimageを貼り付ける
