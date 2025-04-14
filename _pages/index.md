@@ -31,7 +31,7 @@ ya-
 >> 多重引用
 
 
-- 箇条書きリスト
+- 箇条書きリスト #スペースを入れ忘れない
   - ネスト
     - さらにネスト
 
@@ -41,9 +41,10 @@ ya-
       1. さらにネスト
 
 
-| 列1  | 列2  |
+| 列1  | 列2  |　#表形式にする
 |-----|-----|
 | 内容  | 内容  |
 | 内容  | 内容  |
 
-![image](/GHPages_WebSite/assets/images/logo-150.png)
+![image](/GHPages_WebSite/assets/images/logo-150.png)　#GHPages_WebSite　はリポジトリ名
+# assetsファイルのimageを貼り付ける
