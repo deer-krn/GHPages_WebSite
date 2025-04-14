@@ -13,22 +13,19 @@ ya-
 
 以下テンプレート
 
-# 見出し1
-## 見出し2
-### 見出し3
-#### 見出し4
+# 最近私が引けた新キャラ
+## 崩壊スターレイル2周年アニバーサリー
+### 新キャラ　キャストリス
+#### アニメーション付き！
 ##### 見出し5
 ###### 見出し6
 
-改行は、行末に半角スペースを2個いれる
-次の行
+>HoYowiki
+[リンク](https://wiki.hoyolab.com/pc/hsr/home?lang=ja-jp)
 
-[リンク](https://www.google.co.jp/)
+>>**詳細情報はこちら[リンク](https://wiki.hoyolab.com/pc/hsr/entry/3560)**  
+>>**育成計算機[リンク](https://starrailstation.com/jp/planner)**
 
-**太字**
-
-> 引用
->> 多重引用
 
 
 - 箇条書きリスト #スペースを入れ忘れない
@@ -40,11 +37,11 @@ ya-
    1. ネスト
       1. さらにネスト
 
-
-| 列1  | 列2  |　#表形式にする
+ほかのHoYOverおすすめゲーム
+| 原神 | ゼンレスゾーンゼロ  |　#表形式にする
 |-----|-----|
-| 内容  | 内容  |
-| 内容  | 内容  |
+| HoYowiki | HoYowiki  |
+| [リンク](https://wiki.hoyolab.com/pc/genshin/home) | [リンク](https://wiki.hoyolab.com/pc/zzz/home) |
 
 ![image](/GHPages_WebSite/assets/images/logo-150.png)　#GHPages_WebSite　はリポジトリ名
 # assetsファイルのimageを貼り付ける
